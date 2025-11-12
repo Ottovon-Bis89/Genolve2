@@ -1,4 +1,4 @@
-# Genolve+: Genome Evolution Pathway Analysis
+# Genolve+: A Biologically Constrained Approach to Deciphering Genomic Evolution Pathways
 # Overview
 
 Genolve+ (Genolve2) is a computational tool for reconstructing evolutionary pathways between closely related genomes. The software identifies and ranks the most biologically plausible sequences of genomic rearrangement events that transform a source genome into a target genome, providing insights into evolutionary history and genome dynamics.
@@ -147,8 +147,8 @@ If you use Genolve+ in your research, please cite:
 
 ```bibtex
 @software{genolve+,
-  title = {Genolve+: A Tool for Genome Evolution Pathway Analysis},
-  author = {[Ottovon Bismark Dakurah, Helene Fouche]},
+  title = {Genolve+: A Biologically Constrained Approach to Deciphering Genomic Evolution Pathways},
+  author = {[Ottovon Bismark Dakurah, Helene Fouche, Tammara Koh, Hugh-George Patterton]},
   year = {[2025]},
   url = {https://github.com/Ottovon-Bis89/Genolve2}
 }
