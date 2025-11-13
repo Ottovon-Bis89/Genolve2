@@ -164,12 +164,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 # License
 
-[Specify your license here - e.g., MIT, GPL-3.0, Apache-2.0]
+[MIT]
 
 # Acknowledgments
 
-- Helene Fouche: For significant contributions to the design and implementation of Genolve+
 - Mauve Development Team: For providing the synteny block alignment tool
+- Stellenbosch University HPC
 
 Contact
 
