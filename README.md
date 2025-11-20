@@ -147,7 +147,7 @@ If you use Genolve+ in your research, please cite:
 
 ```
   title = {Genolve+: A Biologically Constrained Approach to Deciphering Genomic Evolution Pathways},
-  author = {[Ottovon Bismark Dakurah, Helene Fouche, Tammara Koh, Hugh-George Patterton]},
+  author = {[Ottovon Bismark Dakurah, Helene Fouche, Tammara Poa siang Koh, Hugh-George Patterton]},
   year = {[2025]},
   url = {https://github.com/Ottovon-Bis89/Genolve2}
 }
